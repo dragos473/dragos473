@@ -5,13 +5,17 @@ I am a **Software Engineering student** at the **National University of Science 
 **🛠 Tech Stack**
 
   **Core Languages:** C, C++, Java, Python 
+  
   **Systems & Tools:** Linux, Git, Docker, TCP/IP, Multithreading, Verilog 
+  
   **Web & Graphics:** React, JavaScript, HTML/CSS, OpenGL 
+  
   **Embedded:** Arduino, Digital Electronics
 
 **🌟Favorite Projects**
   
   **AI Home Assistant:** An embedded project using Arduino, Python, and C for automated device control.
+  
   **Banking platform:** A Java platform implementing OOP design patterns to handle transaction processing and financial reporting.  
 
 
