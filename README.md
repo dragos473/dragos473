@@ -1,4 +1,4 @@
-##Hi, I'm Dragoș! 👋
+## Hi, I'm Dragoș! 👋
 
 I am a** Software Engineering student** at the **National University of Science and Technology Politehnica Bucharest**. My focus is on building **efficient, scalable, and robust** software, ranging from **low-level** systems programming to **high-level application logic.**
 
